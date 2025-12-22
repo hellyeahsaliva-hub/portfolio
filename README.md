@@ -48,6 +48,6 @@ Busco oportunidades para:
 
  Contato
 
-telefone:
- Email: [seuemail@email.com](mailto:seuemail@email.com)
+telefone: 55 21972943858
+ Email: charliesix331@gmail.com
 
